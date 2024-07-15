@@ -1,4 +1,4 @@
 # Camera
-This is a basic camera that can take photos and record videos.
+This is a basic mobile camera that can take photos and record videos.
 ***************************************************
-![Captura](./public/captura.jpg)
+![Captura de pantalla](./public/captura.jpg)
